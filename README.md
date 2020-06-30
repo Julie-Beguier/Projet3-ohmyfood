@@ -1,6 +1,6 @@
 # Projet 3 OhMyFood  
 
-L projet 3 d'Open classe Room "OhMyFood" est un site internet dynamique.
+Le projet 3 d'openclasroom "OhMyFood" est un site internet dynamique.
 Création du site Ohmyfood selon la maquette donné. Utilisation dans ce projet de CSS et des animations.
 
 ## Utilisation
