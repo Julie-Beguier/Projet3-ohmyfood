@@ -130,6 +130,9 @@ main {
 }
 
 .menuslesdélices {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     box-shadow: 0 0 10px 6px #e8e8e8;
     margin: 15px;
     width: 300px;
@@ -139,8 +142,7 @@ main {
 }
 
 .titleledélice{
-    margin-top: 140px;
-    margin-bottom: 20px;
+
     font-family: "Parisienne", cursive;
     background: linear-gradient(to right, #0431df 0%, #0887fb 75%);
     -webkit-background-clip: text;
@@ -156,6 +158,9 @@ main {
 }
 
 .menuslapalette{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     margin: 15px;
     box-shadow: 0 0 10px 6px #e8e8e8;
     width: 300px;
@@ -164,8 +169,7 @@ main {
     text-color: #72bf56;
 }
 .titlelapalette{
-    margin-top: 140px;
-    margin-bottom: 20px;
+
     font-family: "Kaushan Script", cursive;
     background: linear-gradient(to right, #3d9339 0%, #c0fd87 70%);
     -webkit-background-clip: text;
