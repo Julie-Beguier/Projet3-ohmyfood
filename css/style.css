@@ -8,6 +8,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Patrick+Hand&display");
 @import url("https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap");
+
 html {
     margin: 0;
     padding: 0;
@@ -26,11 +27,15 @@ body {
 
 header,
 footer,
-a,
-.soon {
+.button {
     background-color: #579c87;
     color: #fdcb46;
     font-family: "Montserrat";
+    text-decoration: none;
+}
+
+.link_header_footer{
+    color: #fdcb46;
     text-decoration: none;
 }
 
@@ -184,18 +189,16 @@ main {
     font-size: 2.2em;
     margin-top: 0;
 }
-.boxsoon{
+
+.button{
     display: flex;
     flex-direction: row;
     align-self: center;
-}
-.soon{
-    display: flex;
-    flex-direction: column;
     align-items: center;
+    justify-content: center;
     padding-top: 5px;
     width: 300px;
-    height: 40px;
+    height: 50px;
     border-radius: 10px;
     font-size: 1.7em;
 }
@@ -277,7 +280,21 @@ footer a:hover {
         flex-direction: row;
         align-items: center;
         justify-content: space-between;
-        margin: 20px 400px
+        margin: 20px 400px;
+        height: 1100px;
     }
+    .button{
+        display: flex;
+
+        align-self: center;
+        align-items: center;
+        justify-content: center;
+        padding-top: 5px;
+        width: 300px;
+        height: 50px;
+        border-radius: 10px;
+        font-size: 1.7em;
+    }
+
+
 }
-*/
