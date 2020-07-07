@@ -53,28 +53,48 @@ main {
     flex-direction: column;
     align-items: center;
     text-align: center;
+    height: 1860px;
 }
 
-.menuslanote {
+.box1,
+.box2,
+.box3,
+.box4{
+    text-decoration: none;
+}
+
+.box1:visited{
+    color: black;
+}
+
+.menuslanote{
     box-shadow: 0 0 10px 6px #e8e8e8;
     margin: 15px;
     width: 300px;
     height: 400px;
     background-color: #fcdfdb;
-    text-color: black;
     font-family: "Kalam", cursive;
+}
+
+.menu_transform:hover{
+    transform: scale(1.1);
+    transition-property: transform, opacity;
+    transition-duration: 500ms;
+    transition-delay: 600ms;
+    transition-timing-function: linear;
+    opacity: 0.5;
 }
 
 .image-note {
     margin-top: 90px;
-    width:80px;
-    height:60px;
+    width: 80px;
+    height: 60px;
 }
+
 
 .titlelanote {
     margin-top: 0;
     font-family: "Devonshire", cursive;
-    font-size: 1.6em;
 }
 
 .title-menulanote  {
@@ -82,6 +102,9 @@ main {
 }
 
 .menuslechic {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     box-shadow: 0 0 10px 6px #e8e8e8;
     margin: 15px;
     width: 300px;
@@ -89,9 +112,9 @@ main {
     background-color: #fff5fe;
     text-color: #c77412;
 }
+
 .titlelechic{
-    margin-top: 140px;
-    margin-bottom: 20px;
+
     font-family: "Croissant One", cursive;
     background: linear-gradient(to right, #c77529 0%, #8f5bfe 75%);
     -webkit-background-clip: text;
