@@ -22,7 +22,6 @@ Création du site Ohmyfood selon la maquette donné. Utilisation dans ce projet 
 Julie Béguier  
 
 ## Site Web  
-
-
+ https://julie-beguier.github.io/Projet3-ohmyfood/
 ## License  
 Code released under the MIT License 
