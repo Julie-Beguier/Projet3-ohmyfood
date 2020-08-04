@@ -140,6 +140,10 @@ main {
     color: black;
 }
 
+.size-title-menu {
+    font-size: 2.2em;
+}
+
 .menuslanote {
     box-shadow: 0 0 10px 6px #e8e8e8;
     margin: 15px;
