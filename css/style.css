@@ -144,6 +144,10 @@ main {
     font-size: 2.2em;
 }
 
+.size-restaurant-name {
+    font-size: 1.6em;
+}
+
 .menuslanote {
     box-shadow: 0 0 10px 6px #e8e8e8;
     margin: 15px;
@@ -185,7 +189,6 @@ main {
     background: linear-gradient(to right, #c77529 0%, #8f5bfe 75%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    font-size: 1.6em;
 }
 
 .title-menulechic {
@@ -211,7 +214,6 @@ main {
     background: linear-gradient(to right, #0431df 0%, #0887fb 75%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    font-size: 1.6em;
 }
 
 .title-menuledelice {
@@ -237,7 +239,6 @@ main {
     background: linear-gradient(to right, #3d9339 0%, #c0fd87 70%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    font-size: 1.6em;
 }
 
 .title-menulapalette {
@@ -770,6 +771,8 @@ h3 {
         font-size: 1.5em;
     }
 
+    /*le delice*/
+    
     .texte-ledelice {
         font-size: 1em;
     }
