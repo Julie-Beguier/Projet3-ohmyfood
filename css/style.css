@@ -442,8 +442,10 @@ h3 {
 
 .color-texte-starter {
     color: #c77529;
-    font-size: 0.8em;
     margin-bottom: 50px;
+}
+.size-text-lechic{
+    font-size: 0.8em;
 }
 
 .h3-maincourse-lechic {
@@ -454,7 +456,6 @@ h3 {
 
 .color-texte-maincourse {
     color: #a56799;
-    font-size: 0.8em;
     margin-bottom: 50px;
 }
 
@@ -481,7 +482,6 @@ h3 {
 
 .color-texte-desert {
     color: #a68bdf;
-    font-size: 0.8em;
     margin-bottom: 50px;
 }
 
@@ -638,27 +638,11 @@ h3 {
         font-size: 1.2em;
     }
 
-    .h3-starter-lechic {
+    .size-title-menu-lechic {
         font-size: 1.5em;
     }
 
-    .color-texte-starter {
-        font-size: 1em;
-    }
-
-    .h3-maincourse-lechic {
-        font-size: 1.5em;
-    }
-
-    .color-texte-maincourse {
-        font-size: 1em;
-    }
-
-    .h3-desert-lechic {
-        font-size: 1.5em;
-    }
-
-    .color-texte-desert {
+    .size-text-lechic {
         font-size: 1em;
     }
 
