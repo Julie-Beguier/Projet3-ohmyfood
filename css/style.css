@@ -108,26 +108,6 @@ main {
     text-align: center;
 }
 
-.box1,
-.box2,
-.box3,
-.box4 {
-    text-decoration: none;
-}
-
-.box1:visited {
-    color: black;
-}
-
-.menuslanote {
-    box-shadow: 0 0 10px 6px #e8e8e8;
-    margin: 15px;
-    width: 300px;
-    height: 400px;
-    background-color: #fcdfdb;
-    font-family: "Kalam", cursive;
-}
-
 .menu_transform:hover {
     transform: scale(1.1);
     transition-property: transform, opacity;
@@ -147,6 +127,26 @@ main {
     transition-duration: 500ms;
     transition-delay: 600ms;
     transition-timing-function: linear;
+}
+
+.box1,
+.box2,
+.box3,
+.box4 {
+    text-decoration: none;
+}
+
+.box1:visited {
+    color: black;
+}
+
+.menuslanote {
+    box-shadow: 0 0 10px 6px #e8e8e8;
+    margin: 15px;
+    width: 300px;
+    height: 400px;
+    background-color: #fcdfdb;
+    font-family: "Kalam", cursive;
 }
 
 .image-note {
