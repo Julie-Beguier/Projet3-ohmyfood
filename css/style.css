@@ -165,7 +165,6 @@ main {
 }
 
 .title-menulanote {
-    font-size: 2.2em;
     margin-top: 10px;
 }
 
@@ -193,7 +192,6 @@ main {
     font-family: "Playfair Display", serif;
     color: #d17200;
     letter-spacing: 0.1em;
-    font-size: 2.2em;
 }
 
 .menuslesdelices {
@@ -220,7 +218,6 @@ main {
     font-family: "Patrick Hand", cursive;
     color: #007cff;
     font-style: italic;
-    font-size: 2.2em;
     margin-top: 10px;
 }
 
@@ -247,7 +244,6 @@ main {
     font-family: "Patrick Hand", cursive;
     color: #52c749;
     font-style: italic;
-    font-size: 2.2em;
     margin-top: 0;
 }
 
