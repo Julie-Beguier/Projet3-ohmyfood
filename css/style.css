@@ -516,22 +516,16 @@ h3 {
 }
 
 .h3-lapalette-1 {
-    color: black;
-    font-size: 0.9em;
     margin-right: 60px;
     margin-left: 60px;
 }
 
 .h3-lapalette-2 {
-    color: black;
-    font-size: 0.9em;
     margin-right: 20px;
     margin-left: 20px;
 }
 
 .h3-lapalette-3 {
-    color: black;
-    font-size: 0.9em;
     margin-right: 5px;
     margin-left: 5px;
 }
@@ -544,6 +538,7 @@ h3 {
     background-size: 0 100%;
     transition: background-size 1s;
     font-size: 1em;
+    color: black;
 }
 
 .h3-lapalette-1:hover,
@@ -772,7 +767,7 @@ h3 {
     }
 
     /*le delice*/
-    
+
     .texte-ledelice {
         font-size: 1em;
     }
