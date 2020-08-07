@@ -254,6 +254,7 @@ main {
     background-color: var(--menu4-background-color);
     color: var(--menu4-text-color);
 }
+
 .titlelapalette {
     font-family: "Kaushan Script", cursive;
     background: linear-gradient(to right, #3d9339 0%, #c0fd87 70%);
@@ -374,6 +375,7 @@ li {
 }
 
 .title-lanote {
+    font-family: "Devonshire", cursive;
     font-size: 1.6em;
     margin-top: 0;
 }
