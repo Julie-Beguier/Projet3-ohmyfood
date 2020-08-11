@@ -122,7 +122,6 @@ main {
     transform: scale(1.1);
     transition-property: transform, opacity;
     transition-duration: 500ms;
-    transition-delay: 600ms;
     transition-timing-function: linear;
     opacity: 0.5;
 }
@@ -133,10 +132,6 @@ main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    transition-property: transform, opacity;
-    transition-duration: 500ms;
-    transition-delay: 600ms;
-    transition-timing-function: linear;
 }
 
 .box1,
